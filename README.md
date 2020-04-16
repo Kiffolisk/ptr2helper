@@ -1,2 +1,2 @@
 # ptr2helper
-PTR2 Helper
+ptr2helper is a program made for helping people with PTR2 and some tricks.
